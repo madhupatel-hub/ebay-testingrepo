@@ -1,5 +1,5 @@
 {
-    "name": "testing/ebay-sdk",
+    "name": "testing/ebaysdk",
     "description": "A simple Laravel package for ebay.",
     "authors": [
         {
